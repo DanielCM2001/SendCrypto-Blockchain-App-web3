@@ -39,4 +39,4 @@ Run the website
 yarn dev
 ```
 ## 🖊 Author:
-Created by <a href="www.linkedin.com/in/daniel-cruz-martins" rel="nofollow">@daniel-cruz-martins</a>
+Created by <a href="[www.linkedin.com/in/daniel-cruz-martins](https://www.linkedin.com/in/daniel-cruz-martins/)" rel="nofollow">@daniel-cruz-martins</a>
